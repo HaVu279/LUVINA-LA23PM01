@@ -1,0 +1,129 @@
+.head-page{
+	border-collapse: collapse;
+	width: 50%;
+	margin-bottom: 30px;
+}
+
+.boder-head{
+	border: 1px solid black;
+}
+
+.image-logo{
+	width: 210px;
+	height: 100px;
+}
+
+.name-company{
+	border: 1px solid black;
+	font-size: 30pt;
+}
+
+.logout{
+	margin: 0px 5px;
+}
+
+.label-form{
+	margin: 0px 5px;
+	padding-right: 50px;
+	font-weight: bold;
+}
+
+.large-input{
+	width: 150px;
+}
+
+.small-input{
+	width: 60px;
+	margin: 0px 5px 0px 0px;
+}
+
+.big-input{
+	width: 280px;
+}
+
+.button{
+	margin: 0px 5px 0px 0px;
+	width: 70px;
+	font-size: 8pt;
+	border-radius: 3px;
+}
+
+th, td {
+	padding: 5px;
+}
+
+.table-data{
+	border: 1px solid black;
+	border-collapse: collapse;
+	width: 100%;
+}
+
+.table-data > thead > tr > th {
+	border: 1px solid black;
+	background-color: #ebebe0;
+}
+
+.table-data > tbody > tr > td{
+	border: 1px solid black;
+}
+
+.align-center{
+	text-align: center;
+}
+
+.align-right{
+	text-align: right;
+}
+
+.align-left{
+	text-align: left;
+}
+
+.pagination{
+	margin: 5px 0px;
+}
+
+.pagination > .number{
+	padding: 0px 5px;
+	border-left: 1px solid black;
+}
+
+.footer{
+	margin-top: 50px;
+	width: 50%;
+	text-align: center;
+	font-weight: bold;
+	font-size: 10pt;
+}
+
+.star-red{
+	color: red;
+	padding: 0px 5px;
+}
+
+.large-select{
+	width: 156px;
+}
+
+.form{
+	margin-left: 100px;
+}
+
+.under-line{
+	text-decoration-line: underline;
+	color: blue;
+}
+
+.width-label{
+	width: 20%;
+}
+
+.layout-button{
+	padding: 20px 0px 0px 80px;
+}
+
+.login-form{
+	position: absolute;
+	top: 35%;
+	left: 35%;
+}
